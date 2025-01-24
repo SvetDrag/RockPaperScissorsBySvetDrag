@@ -30,23 +30,13 @@ Can you outsmart the computer? Let’s find out! 🚀
 This repository contains the following files:
 
 ```
-RockPaperScissorsBySvetDrag/
-├── .gitattributes
-├── .gitignore
-├── LICENSE
-├── README.md
-├── RockPaperScissors.java
+🔧 How to Run (locally):
+├── 1. Clone this repository to your local machine;
+├── 2. Open the project in your preferred Java IDE;
+├── 3. Compile and run the `RockPaperScissors.java` file;
+├── 4. Follow the on-screen instructions to play the game!
 
 ```
-
----
-
-## 🔧 How to Run
-To run this game locally:
-1. Clone this repository to your local machine;
-2. Open the project in your preferred Java IDE;
-3. Compile and run the `RockPaperScissors.java` file;
-4. Follow the on-screen instructions to play the game!
 
 ---
 
