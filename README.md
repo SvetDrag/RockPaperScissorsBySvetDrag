@@ -1,6 +1,4 @@
-# 🌈 RockPaperScissorsBySvetDrag 🎮
-
-![Rock Paper Scissors](https://via.placeholder.com/1200x300.png?text=Rock+Paper+Scissors+by+SvetDrag)
+# RockPaperScissorsBySvetDrag 🎮
 
 ---
 
