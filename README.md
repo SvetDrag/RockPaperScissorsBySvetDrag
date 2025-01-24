@@ -35,7 +35,7 @@ RockPaperScissorsBySvetDrag/
 │   ├── Main.java
 │   └── RockPaperScissorsGame.java
 ├── README.md
-└── banner.png (Replace with your custom banner image)
+
 ```
 
 ---
