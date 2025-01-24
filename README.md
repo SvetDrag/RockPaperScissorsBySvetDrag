@@ -1,4 +1,4 @@
-# RockPaperScissorsBySvetDrag 🎮
+🎮 # RockPaperScissorsBySvetDrag 🎮
 
 ---
 
@@ -31,9 +31,10 @@ This repository contains the following files:
 
 ```
 RockPaperScissorsBySvetDrag/
-├── src/
-│   ├── Main.java
-│   └── RockPaperScissorsGame.java
+├── .gitattributes
+├── .gitignore
+├── LICENSE
+├── README.md
 ├── README.md
 
 ```
@@ -42,9 +43,9 @@ RockPaperScissorsBySvetDrag/
 
 ## 🔧 How to Run
 To run this game locally:
-1. Clone this repository to your local machine.
-2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
-3. Compile and run the `Main.java` file.
+1. Clone this repository to your local machine;
+2. Open the project in your preferred Java IDE;
+3. Compile and run the `RockPaperScissors.java` file;
 4. Follow the on-screen instructions to play the game!
 
 ---
@@ -53,12 +54,12 @@ To run this game locally:
 ```
 Welcome to Rock-Paper-Scissors!
 Choose your move:
-1. Rock
-2. Paper
-3. Scissors
-Enter your choice: 1
+--> rock
+--> paper
+--> scissors
+Enter your choice: rock
 Computer chose: Scissors
-You win!
+YOU WIN!
 ```
 
 ---
@@ -68,8 +69,6 @@ You win!
 - ✉ Email: svetlozardragnev@gmail.com
 - 🏡 Location: Dulovo, Bulgaria
 
-Feel free to reach out with any questions or feedback about the game! 🙂
-
 ---
 
 ## 🏆 Acknowledgments
@@ -77,5 +76,3 @@ Special thanks to [SoftUni](https://softuni.bg) for providing an inspiring envir
 
 ---
 
-## 🌟 Stay Creative!
-Enjoy playing and feel free to modify the code to add your own unique features. Let’s make coding fun! 🚀
