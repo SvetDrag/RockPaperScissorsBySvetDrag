@@ -1,4 +1,4 @@
-🎮 # RockPaperScissorsBySvetDrag 🎮
+# 🎮 RockPaperScissorsBySvetDrag 🎮
 
 ---
 
