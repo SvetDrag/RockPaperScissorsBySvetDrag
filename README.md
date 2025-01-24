@@ -35,7 +35,7 @@ RockPaperScissorsBySvetDrag/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── README.md
+├── RockPaperScissors.java
 
 ```
 
